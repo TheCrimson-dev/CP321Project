@@ -1,0 +1,434 @@
+[
+    {
+      "Country": {
+         "Other": "Anguilla"
+      },
+      "Cases in the last 7 days": 38,
+      "Cases in the preceding 7 days": 21,
+      "Weekly Case % Change": 81,
+      "Deaths in the last 7 days": 0,
+      "Deaths in the preceding 7 days": 0,
+      "Weekly Death % Change": 0,
+      "Population": 15235
+   },
+    {
+      "Country": {
+         "Other": "Antigua and Barbuda"
+      },
+      "Cases in the last 7 days": 12,
+      "Cases in the preceding 7 days": 7,
+      "Weekly Case % Change": 71,
+      "Deaths in the last 7 days": 0,
+      "Deaths in the preceding 7 days": 0,
+      "Weekly Death % Change": 0,
+      "Population": 99333
+   },
+    {
+      "Country": {
+         "Other": "Aruba"
+      },
+      "Cases in the last 7 days": 86,
+      "Cases in the preceding 7 days": 47,
+      "Weekly Case % Change": 83,
+      "Deaths in the last 7 days": 0,
+      "Deaths in the preceding 7 days": 0,
+      "Weekly Death % Change": 0,
+      "Population": 107551
+   },
+    {
+      "Country": {
+         "Other": "Bahamas"
+      },
+      "Cases in the last 7 days": 35,
+      "Cases in the preceding 7 days": 27,
+      "Weekly Case % Change": 30,
+      "Deaths in the last 7 days": 1,
+      "Deaths in the preceding 7 days": 16,
+      "Weekly Death % Change": -94,
+      "Population": 399750
+   },
+    {
+      "Country": {
+         "Other": "Barbados"
+      },
+      "Cases in the last 7 days": 799,
+      "Cases in the preceding 7 days": 710,
+      "Weekly Case % Change": 13,
+      "Deaths in the last 7 days": 1,
+      "Deaths in the preceding 7 days": 4,
+      "Weekly Death % Change": -75,
+      "Population": 287984
+   },
+    {
+      "Country": {
+         "Other": "Belize"
+      },
+      "Cases in the last 7 days": 88,
+      "Cases in the preceding 7 days": 109,
+      "Weekly Case % Change": -19,
+      "Deaths in the last 7 days": 0,
+      "Deaths in the preceding 7 days": 2,
+      "Weekly Death % Change": -100,
+      "Population": 410121
+   },
+    {
+      "Country": {
+         "Other": "Bermuda"
+      },
+      "Cases in the last 7 days": 260,
+      "Cases in the preceding 7 days": 244,
+      "Weekly Case % Change": 7,
+      "Deaths in the last 7 days": 1,
+      "Deaths in the preceding 7 days": 2,
+      "Weekly Death % Change": -50,
+      "Population": 61880
+   },
+    {
+      "Country": {
+         "Other": "British Virgin Islands"
+      },
+      "Cases in the last 7 days": 37,
+      "Cases in the preceding 7 days": 0,
+      "Weekly Case % Change": 3700,
+      "Deaths in the last 7 days": 0,
+      "Deaths in the preceding 7 days": 0,
+      "Weekly Death % Change": 0,
+      "Population": 30579
+   },
+    {
+      "Country": {
+         "Other": "Canada"
+      },
+      "Cases in the last 7 days": 39489,
+      "Cases in the preceding 7 days": 36428,
+      "Weekly Case % Change": 8,
+      "Deaths in the last 7 days": 255,
+      "Deaths in the preceding 7 days": 285,
+      "Weekly Death % Change": -11,
+      "Population": 38315113
+   },
+    {
+      "Country": {
+         "Other": "Caribbean Netherlands"
+      },
+      "Cases in the last 7 days": 411,
+      "Cases in the preceding 7 days": 125,
+      "Weekly Case % Change": 229,
+      "Deaths in the last 7 days": 0,
+      "Deaths in the preceding 7 days": 0,
+      "Weekly Death % Change": 0,
+      "Population": 26645
+   },
+    {
+      "Country": {
+         "Other": "Cayman Islands"
+      },
+      "Cases in the last 7 days": 1173,
+      "Cases in the preceding 7 days": 0,
+      "Weekly Case % Change": 117300,
+      "Deaths in the last 7 days": 2,
+      "Deaths in the preceding 7 days": 5,
+      "Weekly Death % Change": -60,
+      "Population": 67058
+   },
+    {
+      "Country": {
+         "Other": "Costa Rica"
+      },
+      "Cases in the last 7 days": 3998,
+      "Cases in the preceding 7 days": 6024,
+      "Weekly Case % Change": -34,
+      "Deaths in the last 7 days": 31,
+      "Deaths in the preceding 7 days": 57,
+      "Weekly Death % Change": -46,
+      "Population": 5174658
+   },
+    {
+      "Country": {
+         "Other": "Cuba"
+      },
+      "Cases in the last 7 days": 5711,
+      "Cases in the preceding 7 days": 4687,
+      "Weekly Case % Change": 22,
+      "Deaths in the last 7 days": 3,
+      "Deaths in the preceding 7 days": 3,
+      "Weekly Death % Change": 0,
+      "Population": 11314645
+   },
+    {
+      "Country": {
+         "Other": "Curaçao"
+      },
+      "Cases in the last 7 days": 364,
+      "Cases in the preceding 7 days": 394,
+      "Weekly Case % Change": -8,
+      "Deaths in the last 7 days": 2,
+      "Deaths in the preceding 7 days": 0,
+      "Weekly Death % Change": 200,
+      "Population": 165255
+   },
+    {
+      "Country": {
+         "Other": "Dominica"
+      },
+      "Cases in the last 7 days": 63,
+      "Cases in the preceding 7 days": 222,
+      "Weekly Case % Change": -72,
+      "Deaths in the last 7 days": 1,
+      "Deaths in the preceding 7 days": 0,
+      "Weekly Death % Change": 100,
+      "Population": 72296
+   },
+    {
+      "Country": {
+         "Other": "Dominican Republic"
+      },
+      "Cases in the last 7 days": 503,
+      "Cases in the preceding 7 days": 697,
+      "Weekly Case % Change": -28,
+      "Deaths in the last 7 days": 0,
+      "Deaths in the preceding 7 days": 1,
+      "Weekly Death % Change": -100,
+      "Population": 11036254
+   },
+    {
+      "Country": {
+         "Other": "El Salvador"
+      },
+      "Cases in the last 7 days": 0,
+      "Cases in the preceding 7 days": 4688,
+      "Weekly Case % Change": -100,
+      "Deaths in the last 7 days": 7,
+      "Deaths in the preceding 7 days": 11,
+      "Weekly Death % Change": -36,
+      "Population": 6542875
+   },
+    {
+      "Country": {
+         "Other": "Greenland"
+      },
+      "Cases in the last 7 days": 45,
+      "Cases in the preceding 7 days": 70,
+      "Weekly Case % Change": -36,
+      "Deaths in the last 7 days": 1,
+      "Deaths in the preceding 7 days": 0,
+      "Weekly Death % Change": 100,
+      "Population": 56941
+   },
+    {
+      "Country": {
+         "Other": "Grenada"
+      },
+      "Cases in the last 7 days": 46,
+      "Cases in the preceding 7 days": 246,
+      "Weekly Case % Change": -81,
+      "Deaths in the last 7 days": 1,
+      "Deaths in the preceding 7 days": 1,
+      "Weekly Death % Change": 0,
+      "Population": 113426
+   },
+    {
+      "Country": {
+         "Other": "Guatemala"
+      },
+      "Cases in the last 7 days": 8366,
+      "Cases in the preceding 7 days": 11106,
+      "Weekly Case % Change": -25,
+      "Deaths in the last 7 days": 47,
+      "Deaths in the preceding 7 days": 85,
+      "Weekly Death % Change": -45,
+      "Population": 18489145
+   },
+    {
+      "Country": {
+         "Other": "Haiti"
+      },
+      "Cases in the last 7 days": 33,
+      "Cases in the preceding 7 days": 17,
+      "Weekly Case % Change": 94,
+      "Deaths in the last 7 days": 0,
+      "Deaths in the preceding 7 days": 0,
+      "Weekly Death % Change": 0,
+      "Population": 11643175
+   },
+    {
+      "Country": {
+         "Other": "Honduras"
+      },
+      "Cases in the last 7 days": 2321,
+      "Cases in the preceding 7 days": 1571,
+      "Weekly Case % Change": 48,
+      "Deaths in the last 7 days": 14,
+      "Deaths in the preceding 7 days": 23,
+      "Weekly Death % Change": -39,
+      "Population": 10177284
+   },
+    {
+      "Country": {
+         "Other": "Jamaica"
+      },
+      "Cases in the last 7 days": 140,
+      "Cases in the preceding 7 days": 160,
+      "Weekly Case % Change": -13,
+      "Deaths in the last 7 days": 12,
+      "Deaths in the preceding 7 days": 22,
+      "Weekly Death % Change": -45,
+      "Population": 2983547
+   },
+    {
+      "Country": {
+         "Other": "Martinique"
+      },
+      "Cases in the last 7 days": 5534,
+      "Cases in the preceding 7 days": 9660,
+      "Weekly Case % Change": -43,
+      "Deaths in the last 7 days": 4,
+      "Deaths in the preceding 7 days": 5,
+      "Weekly Death % Change": -20,
+      "Population": 374761
+   },
+    {
+      "Country": {
+         "Other": "Mexico"
+      },
+      "Cases in the last 7 days": 16049,
+      "Cases in the preceding 7 days": 28292,
+      "Weekly Case % Change": -43,
+      "Deaths in the last 7 days": 663,
+      "Deaths in the preceding 7 days": 1018,
+      "Weekly Death % Change": -35,
+      "Population": 131278063
+   },
+    {
+      "Country": {
+         "Other": "Montserrat"
+      },
+      "Cases in the last 7 days": 1,
+      "Cases in the preceding 7 days": 8,
+      "Weekly Case % Change": -88,
+      "Deaths in the last 7 days": 0,
+      "Deaths in the preceding 7 days": 0,
+      "Weekly Death % Change": 0,
+      "Population": 4997
+   },
+    {
+      "Country": {
+         "Other": "Nicaragua"
+      },
+      "Cases in the last 7 days": 75,
+      "Cases in the preceding 7 days": 87,
+      "Weekly Case % Change": -14,
+      "Deaths in the last 7 days": 0,
+      "Deaths in the preceding 7 days": 1,
+      "Weekly Death % Change": -100,
+      "Population": 6761004
+   },
+    {
+      "Country": {
+         "Other": "Panama"
+      },
+      "Cases in the last 7 days": 1975,
+      "Cases in the preceding 7 days": 1872,
+      "Weekly Case % Change": 6,
+      "Deaths in the last 7 days": 8,
+      "Deaths in the preceding 7 days": 19,
+      "Weekly Death % Change": -58,
+      "Population": 4432339
+   },
+    {
+      "Country": {
+         "Other": "Saint Kitts and Nevis"
+      },
+      "Cases in the last 7 days": 0,
+      "Cases in the preceding 7 days": 8,
+      "Weekly Case % Change": -100,
+      "Deaths in the last 7 days": 0,
+      "Deaths in the preceding 7 days": 0,
+      "Weekly Death % Change": 0,
+      "Population": 53851
+   },
+    {
+      "Country": {
+         "Other": "Saint Lucia"
+      },
+      "Cases in the last 7 days": 45,
+      "Cases in the preceding 7 days": 37,
+      "Weekly Case % Change": 22,
+      "Deaths in the last 7 days": 0,
+      "Deaths in the preceding 7 days": 0,
+      "Weekly Death % Change": 0,
+      "Population": 185080
+   },
+    {
+      "Country": {
+         "Other": "Saint Pierre Miquelon"
+      },
+      "Cases in the last 7 days": 88,
+      "Cases in the preceding 7 days": 377,
+      "Weekly Case % Change": -77,
+      "Deaths in the last 7 days": 0,
+      "Deaths in the preceding 7 days": 0,
+      "Weekly Death % Change": 0,
+      "Population": 5745
+   },
+    {
+      "Country": {
+         "Other": "Sint Maarten"
+      },
+      "Cases in the last 7 days": 41,
+      "Cases in the preceding 7 days": 20,
+      "Weekly Case % Change": 105,
+      "Deaths in the last 7 days": 1,
+      "Deaths in the preceding 7 days": 0,
+      "Weekly Death % Change": 100,
+      "Population": 43719
+   },
+    {
+      "Country": {
+         "Other": "St. Vincent Grenadines"
+      },
+      "Cases in the last 7 days": 1,
+      "Cases in the preceding 7 days": 3,
+      "Weekly Case % Change": -67,
+      "Deaths in the last 7 days": 0,
+      "Deaths in the preceding 7 days": 0,
+      "Weekly Death % Change": 0,
+      "Population": 111550
+   },
+    {
+      "Country": {
+         "Other": "Trinidad and Tobago"
+      },
+      "Cases in the last 7 days": 1731,
+      "Cases in the preceding 7 days": 2164,
+      "Weekly Case % Change": -20,
+      "Deaths in the last 7 days": 22,
+      "Deaths in the preceding 7 days": 28,
+      "Weekly Death % Change": -21,
+      "Population": 1407335
+   },
+    {
+      "Country": {
+         "Other": "Turks and Caicos"
+      },
+      "Cases in the last 7 days": 14,
+      "Cases in the preceding 7 days": 0,
+      "Weekly Case % Change": 1400,
+      "Deaths in the last 7 days": 0,
+      "Deaths in the preceding 7 days": 0,
+      "Weekly Death % Change": 0,
+      "Population": 39624
+   },
+    {
+      "Country": {
+         "Other": "USA"
+      },
+      "Cases in the last 7 days": 170436,
+      "Cases in the preceding 7 days": 204612,
+      "Weekly Case % Change": -17,
+      "Deaths in the last 7 days": 3907,
+      "Deaths in the preceding 7 days": 5918,
+      "Weekly Death % Change": -34,
+      "Population": 334363543
+   }
+   ]

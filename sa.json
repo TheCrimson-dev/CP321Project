@@ -1,0 +1,182 @@
+[
+    {
+        "Country": {
+            "Other": "Argentina"
+        },
+        "Cases in the last 7 days": 36330,
+        "Cases in the preceding 7 days": 35868,
+        "Weekly Case % Change": 1,
+        "Deaths in the last 7 days": 361,
+        "Deaths in the preceding 7 days": 414,
+        "Weekly Death % Change": -13,
+        "Population": 45904781
+    },
+    {
+        "Country": {
+            "Other": "Bolivia"
+        },
+        "Cases in the last 7 days": 2426,
+        "Cases in the preceding 7 days": 2547,
+        "Weekly Case % Change": -5,
+        "Deaths in the last 7 days": 9,
+        "Deaths in the preceding 7 days": 18,
+        "Weekly Death % Change": -50,
+        "Population": 11945187
+    },
+    {
+        "Country": {
+            "Other": "Brazil"
+        },
+        "Cases in the last 7 days": 266887,
+        "Cases in the preceding 7 days": 317327,
+        "Weekly Case % Change": -16,
+        "Deaths in the last 7 days": 2164,
+        "Deaths in the preceding 7 days": 3005,
+        "Weekly Death % Change": -28,
+        "Population": 215142671
+    },
+    {
+        "Country": {
+            "Other": "Chile"
+        },
+        "Cases in the last 7 days": 95205,
+        "Cases in the preceding 7 days": 117381,
+        "Weekly Case % Change": -19,
+        "Deaths in the last 7 days": 619,
+        "Deaths in the preceding 7 days": 830,
+        "Weekly Death % Change": -25,
+        "Population": 19396733
+    },
+    {
+        "Country": {
+            "Other": "Colombia"
+        },
+        "Cases in the last 7 days": 4256,
+        "Cases in the preceding 7 days": 5717,
+        "Weekly Case % Change": -26,
+        "Deaths in the last 7 days": 151,
+        "Deaths in the preceding 7 days": 246,
+        "Weekly Death % Change": -39,
+        "Population": 51810017
+    },
+    {
+        "Country": {
+            "Other": "Ecuador"
+        },
+        "Cases in the last 7 days": 516,
+        "Cases in the preceding 7 days": 8483,
+        "Weekly Case % Change": -94,
+        "Deaths in the last 7 days": 1,
+        "Deaths in the preceding 7 days": 39,
+        "Weekly Death % Change": -97,
+        "Population": 18100947
+    },
+    {
+        "Country": {
+            "Other": "Falkland Islands"
+        },
+        "Cases in the last 7 days": 0,
+        "Cases in the preceding 7 days": 3,
+        "Weekly Case % Change": -100,
+        "Deaths in the last 7 days": 0,
+        "Deaths in the preceding 7 days": 0,
+        "Weekly Death % Change": 0,
+        "Population": 3653
+    },
+    {
+        "Country": {
+            "Other": "French Guiana"
+        },
+        "Cases in the last 7 days": 251,
+        "Cases in the preceding 7 days": 293,
+        "Weekly Case % Change": -14,
+        "Deaths in the last 7 days": 0,
+        "Deaths in the preceding 7 days": 1,
+        "Weekly Death % Change": -100,
+        "Population": 311906
+    },
+    {
+        "Country": {
+            "Other": "Guyana"
+        },
+        "Cases in the last 7 days": 56,
+        "Cases in the preceding 7 days": 87,
+        "Weekly Case % Change": -36,
+        "Deaths in the last 7 days": 2,
+        "Deaths in the preceding 7 days": 1,
+        "Weekly Death % Change": 100,
+        "Population": 793041
+    },
+    {
+        "Country": {
+            "Other": "Paraguay"
+        },
+        "Cases in the last 7 days": 1200,
+        "Cases in the preceding 7 days": 2149,
+        "Weekly Case % Change": -44,
+        "Deaths in the last 7 days": 48,
+        "Deaths in the preceding 7 days": 69,
+        "Weekly Death % Change": -30,
+        "Population": 7282302
+    },
+    {
+        "Country": {
+            "Other": "Peru"
+        },
+        "Cases in the last 7 days": 5067,
+        "Cases in the preceding 7 days": 11222,
+        "Weekly Case % Change": -55,
+        "Deaths in the last 7 days": 332,
+        "Deaths in the preceding 7 days": 487,
+        "Weekly Death % Change": -32,
+        "Population": 33756916
+    },
+    {
+        "Country": {
+            "Other": "Suriname"
+        },
+        "Cases in the last 7 days": 176,
+        "Cases in the preceding 7 days": 286,
+        "Weekly Case % Change": -38,
+        "Deaths in the last 7 days": 3,
+        "Deaths in the preceding 7 days": 3,
+        "Weekly Death % Change": 0,
+        "Population": 595618
+    },
+    {
+        "Country": {
+            "Other": "Uruguay"
+        },
+        "Cases in the last 7 days": 11039,
+        "Cases in the preceding 7 days": 10195,
+        "Weekly Case % Change": 8,
+        "Deaths in the last 7 days": 44,
+        "Deaths in the preceding 7 days": 50,
+        "Weekly Death % Change": -12,
+        "Population": 3494313
+    },
+    {
+        "Country": {
+            "Other": "Venezuela"
+        },
+        "Cases in the last 7 days": 1255,
+        "Cases in the preceding 7 days": 1725,
+        "Weekly Case % Change": -27,
+        "Deaths in the last 7 days": 10,
+        "Deaths in the preceding 7 days": 10,
+        "Weekly Death % Change": 0,
+        "Population": 28298183
+    },
+    {
+        "Country": {
+            "Other": "Venezuela"
+        },
+        "Cases in the last 7 days": 1255,
+        "Cases in the preceding 7 days": 1725,
+        "Weekly Case % Change": -27,
+        "Deaths in the last 7 days": 10,
+        "Deaths in the preceding 7 days": 10,
+        "Weekly Death % Change": 0,
+        "Population": 28298183
+    }
+]

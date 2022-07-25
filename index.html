@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Global Covid-19 totals per million population maps</title>
+        <style>
+            svg {
+                border: 3px solid gray;
+            }
+            p,
+            .legendTitle,
+            .label {
+                font-family: "Times New Roman";
+            }
+
+            .country {
+                -webkit-transition: all 2s ease-out 0s;
+                -moz-transition: all 2s ease-out 0s;
+                -ms-transition: all 2s ease-out 0s;
+                -o-transition: all 2s ease-out 0s;
+                transition: all 2s ease-out 0s;
+            }
+
+            .country:hover {
+                fill: #000000 !important;
+            }
+
+            .hidden {
+                display: none;
+            }
+
+            div.tooltip {
+                background-color: rgb(0, 255, 38);
+                padding: 10px 10px;
+                font: 20pt "Helvetica";
+                border: 1px solid;
+                border-color: grey;
+                border-radius: 8px;
+                opacity: 0.70;
+                position: absolute;
+                -webkit-transition: all 1s ease-out 0s;
+                -moz-transition: all 1s ease-out 0s;
+                -ms-transition: all 1s ease-out 0s;
+                -o-transition: all 1s ease-out 0s;
+                transition: all 1s ease-out 0s;
+            }
+
+            div.tooltip h6 {
+                margin: 0;
+                color: #ff0000;
+            }
+
+            .legendTitle {
+                font-size: 10pt;
+                opacity: 1;
+                text-transform: capitalize;
+            }
+
+            .label {
+                font-size: 12pt;
+                opacity: 1;
+            }
+
+            .legendBackground {
+                fill: #ffffff !important;
+            }
+        </style>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <script src="https://unpkg.com/topojson@3"></script>
+        <script src="https://unpkg.com/topojson-client@3"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js"></script>
+    </head>
+    <body>
+        <h1>Click the button to show which maps you want</h1>
+        <h2>When you select your statistic from the dropdown menu, in order for it to show the data, you have to click on one of the buttons to refresh</h2>
+        <h3 id="showing">Showing North America and South America</h3>
+        <button id="countryBtn">North America and South America</button><br>
+        <button id="northBtn">North America</button>
+        <button id="southButton">South America</button>
+        <p>
+            Choose your statistics from the list:
+            <select id="metrics">
+               
+
+                <option value="Cases in the last 7 days" selected="selected">
+                    Cases in the last 7 days
+                </option>
+                <option value="Cases in the preceding 7 days">
+                    Cases in the next 7 days
+                </option>
+                <option value="Weekly Case % Change">
+                    Weekly Case % Change
+                </option>
+                <option value="Deaths in the last 7 days">
+                    Deaths in the last 7 days
+                </option>
+                <option value="Deaths in the preceding 7 days">
+                    Deaths in the next 7 days
+                </option>
+                <option value="Difference">
+                    Differences between the next and last 7 days
+                </option>
+            </select>
+        </p>
+
+        <div class="visualisation"></div>
+        <div>
+            <h1>Top 5 highest cases in millions</h1>
+            <p id="highestCase"></p>
+
+            <h1>Bottom 5 lowest cases in millions</h1>
+            <p id="lowestCase"></p>
+        </div>
+        <script src="./bundle.js"></script>
+    </body>
+</html>
