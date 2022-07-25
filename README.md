@@ -1,1 +1,2 @@
 # CP321Project
+In this project, I had to display data for the weekly trend for COVID-19 cases in North and South America. In order to visualize the data, I had to use a library called D3 to visualize the data in order to create a map of North and South America. The numbers are color-coded, getting darker the higher the cases are, the user is able to choose between different statistics using a dropdown menu and are able to filter between the two continents.
